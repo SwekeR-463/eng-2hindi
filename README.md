@@ -1,5 +1,9 @@
 # eng-2-hindi
+
 [Demo](https://huggingface.co/spaces/Swekerr/English-2-Hindi)
+
+![Screenshot 2025-01-10 130354](https://github.com/user-attachments/assets/f2b37987-3291-400e-8687-1b00d67e63dc)
+
 ---
 Fine Tuned a translation model for english to hindi translation
 
